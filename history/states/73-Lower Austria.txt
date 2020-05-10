@@ -1,0 +1,24 @@
+
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		159 692 699 1464 1892 2736 2881 3350 3414 6890 7539 7648 7807 7894 9265 9314 10119 10134 10248 10302 10728 10940 11088 14623 14734 14811 14837 14839 14843 14866 14887 14916 14947 14987 15083 19405 20049 20050 20051 20052 
+	}
+	manpower=2595983
+	buildings_max_level_factor=1.000
+	state_category = large_city
+	resources={
+		oil=1 # was: 2
+	}
+	history={
+		owner = AUS
+                add_core_of = AUS
+		buildings = {
+			infrastructure = 7
+			arms_factory = 3
+			industrial_complex = 5
+			air_base = 6
+		}
+         }
+}

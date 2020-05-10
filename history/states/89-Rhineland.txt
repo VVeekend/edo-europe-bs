@@ -1,0 +1,25 @@
+
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		701 1567 1657 3638 4130 4166 4676 4789 6033 6814 7574 8315 9652 13983 14024 14049 14056 14084 14092 14141 14160 14180 14190 14276 19472 
+	}
+	manpower=6144743
+	buildings_max_level_factor=1.000
+	state_category = metropolis
+	resources={
+		steel=30 # was: 54
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 8
+			arms_factory = 3
+			industrial_complex = 2
+			air_base = 3
+
+		}
+        }
+}

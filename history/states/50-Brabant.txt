@@ -1,0 +1,19 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		255 272 3763 6113 7253 10756 13935 13977 14018 14042 14055 14088 
+	}
+	manpower=1449000
+	buildings_max_level_factor=1.000
+	state_category=city
+	history={
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 5
+
+		}
+         }
+}
