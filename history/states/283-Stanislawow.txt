@@ -1,8 +1,12 @@
-
 state={
 	id=283
 	name="STATE_283"
-
+	provinces={
+		683 1891 1986 2373 4349 4393 4798 6165 7243 8230 8555 10702 11155 14297 14314 14329 14357 14448 14459 14472 14501 14517 
+	}
+	manpower=2180300
+	buildings_max_level_factor=1.000
+	state_category=town
 	history={
 		add_core_of = POL
 		owner = POL
@@ -11,13 +15,5 @@ state={
 			air_base = 3
 
 		}
-
-	}
-
-	provinces={
-		683 1891 1986 2373 4349 4393 4798 6165 7243 8230 8555 10702 11155 14297 14314 14329 14357 14448 14459 14472 14501 14517 
-	}
-	manpower=2180300
-	buildings_max_level_factor=1.000
-	state_category=town
+        }
 }
