@@ -1,0 +1,24 @@
+state={
+	id=349
+	name="STATE_349"
+	
+	resources={
+		steel=19 # was: 60
+		aluminium=7 # was: 20
+	}
+	
+	history={
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+		}
+	}
+	
+	provinces={
+		1220 2066 14191 14258 14299 
+	}
+	
+	manpower=1000000
+	state_category = city
+	buildings_max_level_factor=1.000
+}
