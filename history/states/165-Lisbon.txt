@@ -1,24 +1,29 @@
+
 state={
 	id=165
 	name="STATE_165"
 	resources={
-		tungsten=50
+		tungsten=50.000
 	}
-	provinces={
-		1534 3457 4095 4344 4517 4925 5270 6014 6115 6195 7954 8150 8274 8600 10325 10427 10865 10867 10957 11018 15930 15951 15993 16001 16008 16029 16059 16081 16128 16146 16209 16231 16239 
-	}
-	manpower=1995800
-	buildings_max_level_factor=1.000
-        state_category=city
+
 	history={
 		owner = POR
-                add_core_of = POR
+		add_core_of = POR
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
 			industrial_complex = 2
 			air_base = 5
 			dockyard = 2
+
 		}
-		
+
+	}
+
+	provinces={
+		1534 4095 4517 4925 6115 8274 10867 10957 16001 16029 16081 16128 16146 
+	}
+	manpower=1995800
+	buildings_max_level_factor=1.000
+	state_category=city
 }

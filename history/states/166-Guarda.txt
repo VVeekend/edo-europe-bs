@@ -1,19 +1,23 @@
+
 state={
 	id=166
 	name="STATE_166"
-	provinces={
-		83 1754 2394 5222 5368 5480 5717 5762 6421 7059 7235 9697 15973 16036 16104 16135 16137 16169 
-	}
-	manpower=964700
-        state_category = town
+
 	history={
 		owner = POR
-                add_core_of = POR
+		add_core_of = POR
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
+
 		}
-		
+
 	}
+
+	provinces={
+		83 1754 2394 5222 5368 5762 7954 15973 15993 16008 16036 16059 16104 
+	}
+	manpower=964700
 	buildings_max_level_factor=1.000
+	state_category=town
 }

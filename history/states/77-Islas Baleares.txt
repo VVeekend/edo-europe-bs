@@ -4,6 +4,16 @@ state={
 	provinces={
 		418 8684 9365 10335 11445 16348 16378 16402 17353 17354 17358 
 	}
-	manpower=0
+	manpower=365500
 	buildings_max_level_factor=1.000
+	state_category = rural
+	history=
+	{
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 6
+			air_base = 1
+		}
+	}
 }

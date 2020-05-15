@@ -4,6 +4,18 @@ state={
 	provinces={
 		8900 9767 9967 10131 11192 11368 17344 17345 17352 17355 17360 17361 
 	}
-	manpower=0
+	manpower=322600
 	buildings_max_level_factor=1.000
+	state_category = small_island
+	resources={
+		chromium=7 # was: 10
+	}
+	history={
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			}
+		}
 }
