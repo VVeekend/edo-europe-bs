@@ -2,9 +2,25 @@
 state={
 	id=134
 	name="STATE_134"
-	provinces={
-		270 1445 1492 1852 2289 2649 3834 4100 4303 4342 4852 4880 5333 6384 6765 6983 7160 7801 7981 8132 8136 8501 9165 9418 10064 10559 11345 15901 15921 15929 15940 15954 15980 15985 16012 16052 16077 16079 16099 16109 16110 16121 16157 
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		add_claim_by = BUL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		1445 1852 2289 2649 4100 4342 4852 4880 5333 6384 6983 7801 8132 9165 10064 10559 16012 16052 16079 16099 16109 16110 16121 16157 
+	}
+	manpower=1155700
 	buildings_max_level_factor=1.000
+	state_category=town
 }

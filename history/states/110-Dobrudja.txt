@@ -4,6 +4,16 @@ state={
 	provinces={
 		1210 2705 6094 6252 9357 15382 15387 15409 15411 15425 15435 
 	}
-	manpower=0
+	manpower=378000
 	buildings_max_level_factor=1.000
+	state_category = rural
+	history={
+		owner = ROM
+		add_core_of = ROM
+		add_claim_by = BUL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+	}
 }

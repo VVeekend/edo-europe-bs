@@ -5,6 +5,16 @@ state={
 	provinces={
 		568 3427 5461 6708 7598 10345 11224 15104 15120 15128 15144 15145 15167 15168 15193 15208 15209 15218 19998 
 	}
-	manpower=0
+	manpower=1144300
 	buildings_max_level_factor=1.000
+	state_category = large_town
+	history =
+	{
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SLV
+		buildings = {
+			infrastructure = 6
+		}
+	}
 }

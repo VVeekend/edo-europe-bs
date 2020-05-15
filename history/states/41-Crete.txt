@@ -4,6 +4,17 @@ state={
 	provinces={
 		899 3322 5616 5947 6172 7513 7944 9186 9925 10707 11636 16705 16711 16718 17408 
 	}
-	manpower=0
+	manpower=387900
 	buildings_max_level_factor=1.000
+	state_category = rural
+	history=
+	{
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			}
+	  }
 }
