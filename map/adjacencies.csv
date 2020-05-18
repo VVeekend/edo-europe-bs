@@ -1,3 +1,72 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
--1;-1;;-1;-1;-1;-1;-1;-1
-3195;15819;sea;18221;-1;-1;-1;-1;Bosphorus;eet
+3195;19709;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
+9405;10724;sea;17601;-1;-1;-1;-1;;Calabria-Sicily
+8836;9945;sea;17750;-1;-1;-1;-1;;Corsica-Sardinia
+17406;16733;sea;18532;-1;-1;-1;-1;;West Malta-East Malta
+14714;5232;sea;18426;-1;-1;-1;-1;;West Crimea-East Crimea
+17313;17314;sea;18573;-1;-1;-1;-1;;North Anglo Island to South Anglo Island
+16633;393;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar to North Africa
+11484;17305;sea;18295;-1;-1;-1;-1;;Dutch Island Chain 1
+17305;17304;sea;18295;-1;-1;-1;-1;;Dutch Island Chain 2
+17304;17303;sea;18295;-1;-1;-1;-1;;Dutch Island Chain 3
+17303;17302;sea;18295;-1;-1;-1;-1;;Dutch Island Chain 4
+17302;17301;sea;18527;-1;-1;-1;-1;;Dutch Island Chain 5
+17301;17299;sea;18527;-1;-1;-1;-1;;Dutch Island Chain 6
+16502;17367;sea;18616;-1;-1;-1;-1;;South Aegean Islands 1
+17367;17368;sea;18616;-1;-1;-1;-1;;South Aegean Islands 2
+17368;17376;sea;17498;-1;-1;-1;-1;;South Aegean Islands 3
+17376;17383;sea;17498;-1;-1;-1;-1;;South Aegean Islands 4
+17383;17388;sea;17498;-1;-1;-1;-1;;South Aegean Islands 5
+17388;17394;sea;18007;-1;-1;-1;-1;;South Aegean Islands 6
+17394;17397;sea;18007;-1;-1;-1;-1;;South Aegean Islands 7
+17388;17398;sea;18007;-1;-1;-1;-1;;South Aegean Islands 8
+17398;17395;sea;18007;-1;-1;-1;-1;;South Aegean Islands 9
+17395;17392;sea;18007;-1;-1;-1;-1;;South Aegean Islands 10
+17392;17399;sea;18200;-1;-1;-1;-1;;South Aegean Islands 11
+17399;17400;sea;18808;-1;-1;-1;-1;;South Aegean Islands 12
+9397;8808;sea;18967;-1;-1;-1;-1;;South Aegean Islands 13
+16488;17365;sea;18967;-1;-1;-1;-1;;South Aegean Islands 14
+17365;17370;sea;18967;-1;-1;-1;-1;;South Aegean Islands 15
+17370;17379;sea;18200;-1;-1;-1;-1;;South Aegean Islands 16
+17379;17380;sea;18200;-1;-1;-1;-1;;South Aegean Islands 17
+17380;17385;sea;18007;-1;-1;-1;-1;;South Aegean Islands 18
+17379;17384;sea;18200;-1;-1;-1;-1;;South Aegean Islands 19
+17379;17392;sea;18200;-1;-1;-1;-1;;South Aegean Islands 20
+17365;17373;sea;18967;-1;-1;-1;-1;;South Aegean Islands 21
+17403;17401;sea;17694;-1;-1;-1;-1;;Dodecanese islands 1
+17401;3526;sea;18961;-1;-1;-1;-1;;Dodecanese islands 2
+11024;16539;sea;18895;-1;-1;-1;-1;;Dodecanese islands 3
+17396;3526;sea;18895;-1;-1;-1;-1;;Dodecanese islands 4
+17390;17396;sea;19178;-1;-1;-1;-1;;Dodecanese islands 5
+17387;17390;sea;19178;-1;-1;-1;-1;;Dodecanese islands 6
+17387;3816;sea;19178;-1;-1;-1;-1;;Dodecanese islands 7
+17382;16539;sea;19178;-1;-1;-1;-1;;Dodecanese islands 8
+6613;3816;sea;19178;-1;-1;-1;-1;;Dodecanese islands 9
+17387;6613;sea;19640;-1;-1;-1;-1;;Dodecanese islands 10
+17375;6613;sea;17640;-1;-1;-1;-1;;Dodecanese islands 11
+17375;4509;sea;17640;-1;-1;-1;-1;;Dodecanese islands 12
+17371;17375;sea;17640;-1;-1;-1;-1;;Dodecanese islands 13
+17393;17391;sea;17640;-1;-1;-1;-1;;Dodecanese islands 14
+9767;7177;sea;17567;-1;-1;-1;-1;;Izmit Aegean Islands 1
+17352;10131;sea;17596;-1;-1;-1;-1;;Izmit Aegean Islands 2
+17351;16349;sea;18870;-1;-1;-1;-1;;Izmit Aegean Islands 3
+17344;5483;sea;18652;-1;-1;-1;-1;;Izmit Aegean Islands 4
+17344;16151;sea;18652;-1;-1;-1;-1;;Izmit Aegean Islands 5
+17341;16113;sea;17510;-1;-1;-1;-1;;Izmit Aegean Islands 6
+3718;17341;sea;17510;-1;-1;-1;-1;;Izmit Aegean Islands 7
+8900;3718;sea;18459;-1;-1;-1;-1;;Izmit Aegean Islands 8
+11192;3718;sea;18459;-1;-1;-1;-1;;Izmit Aegean Islands 9
+17345;8900;sea;18318;-1;-1;-1;-1;;Izmit Aegean Islands 10
+9750;4926;sea;18802;-1;-1;-1;-1;;Izmit Edrine Bursa
+17339;3714;sea;18802;-1;-1;-1;-1;;Izmit Edrine Bursa 2
+11346;11368;sea;18766;-1;-1;-1;-1;;Thrace to Island
+4007;17316;sea;18578;-1;-1;-1;-1;;Zaporizka to small island
+17358;17353;sea;17431;-1;-1;-1;-1;;Baleares Islands 1
+17353;10335;sea;18065;-1;-1;-1;-1;;Baleares Islands 2
+16402;17354;sea;18879;-1;-1;-1;-1;;Baleares Islands 3
+11445;9365;sea;17602;-1;-1;-1;-1;;Baleares Islands 4
+16455;17359;sea;19007;-1;-1;-1;-1;;Sardina to small islands 1
+17357;17359;sea;19007;-1;-1;-1;-1;;Sardina to small islands 2
+17357;16455;sea;19007;-1;-1;-1;-1;;Sardina to small islands 3
+1404;17342;sea;19162;-1;-1;-1;-1;;Sardina to small islands 4
+9945;17340;sea;17750;-1;-1;-1;-1;;Sardina to small islands 5
