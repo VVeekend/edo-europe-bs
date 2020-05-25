@@ -12,6 +12,24 @@ state={
 		add_core_of = YUG
 		buildings = {
 			infrastructure = 4
-             }
+                }
+		victory_points = {
+		7877 2
+		}
+		victory_points = {
+		6383 1 #Çerkez
+		}
+		victory_points = {
+		8844 1
+		}
+		victory_points = {
+		15814 2
+		}
+		victory_points = {
+		15726 1
+		}
+		victory_points = {
+		15975 3
+		}
 	}
 }

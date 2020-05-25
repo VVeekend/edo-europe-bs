@@ -18,7 +18,36 @@ state={
 			dockyard = 2
 			fuel_silo = 1
 			air_base = 3
-
+		}
+		victory_points = {
+		10234 10
+		}
+		victory_points = {
+		2632 5
+		}
+		victory_points = {
+		19462 20
+		}
+		victory_points = {
+		8644 5
+		}
+		victory_points = {
+		6764 15
+		}
+		victory_points = {
+		2604 5
+		}
+		victory_points = {
+		9778 3
+		}
+		victory_points = {
+		3121 1
+		}
+		victory_points = {
+		10705 3
+		}
+		victory_points = {
+		13705 3
 		}
          }
 }

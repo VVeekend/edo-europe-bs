@@ -16,5 +16,44 @@ state={
 			dockyard = 5
 			air_base = 5
 		}
+		victory_points = {
+			14510 1 
+		}
+		victory_points = {
+			19536 20 
+		}
+		victory_points = {
+			3660 1 
+		}
+		victory_points = {
+			19530 10 
+		}
+		victory_points = {
+			41 1 
+		}
+		victory_points = {
+			65 1 
+		}
+		victory_points = {
+			19534 10 
+		}
+		victory_points = {
+			14643 1 
+		}
+		victory_points = {
+			19521 10 
+		}
+		victory_points = {
+			10669 5 
+		}
+		victory_points = {
+			4984 3 
+		}
+		victory_points = {
+			14626 1 
+		}
+		victory_points = {
+			19524 20 
+		}
        }
 }

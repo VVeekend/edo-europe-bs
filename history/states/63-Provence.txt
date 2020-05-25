@@ -22,5 +22,29 @@ state={
 			fuel_silo = 1
 			air_base = 10
 		}
+		victory_points = {
+			20005 20 
+		}
+		victory_points = {
+			20001 1 
+		}
+		victory_points = {
+			20028 1 
+		}
+		victory_points = {
+			2790 1 
+		}
+		victory_points = {
+			1306 1 
+		}
+		victory_points = {
+			15762 1 
+		}
+		victory_points = {
+			19742 1 
+		}
+		victory_points = {
+			5603 1 
+		}
         }
 } 

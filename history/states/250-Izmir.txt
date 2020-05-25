@@ -18,5 +18,47 @@ state={
 			industrial_complex = 1
 			air_base = 2
 		}
+		victory_points = {
+		16278 3
+		}
+		victory_points = {
+		16215 2
+		}
+		victory_points = {
+		10789 3 #Alaşehir
+		}
+		victory_points = {
+		9897 1 #Demirci
+		}
+		victory_points = {
+		327 20
+		}
+		victory_points = {
+		7177 1
+		}			
+		victory_points = {
+		16275 3 
+		}			
+		victory_points = {
+		16237 1 #Dikili
+		}			
+		victory_points = {
+		7579 2
+		}
+		victory_points = {
+		10710 1
+		}
+	        victory_points = {
+	        3677 3
+	        }
+	        victory_points = {
+	        742 1
+	        }
+	        victory_points = {
+	        6251 1
+	        }	
+	        victory_points = {
+	       7229 1
+	      }
 	}
 }

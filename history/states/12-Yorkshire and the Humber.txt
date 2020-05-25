@@ -20,5 +20,17 @@ state={
 			industrial_complex = 3
 			air_base = 10
 			}
+		victory_points = {
+		5550 5 
 		}
+		victory_points = {
+		13387 5 
+		}
+		victory_points = {
+		3990 5 
+		}
+		victory_points = {
+		7585 5
+		}
+	}
 }

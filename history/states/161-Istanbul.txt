@@ -22,5 +22,41 @@ state={
 			arms_factory = 2
 			air_base = 4
 			}
+		victory_points = {
+		19709 15
 		}
+		victory_points = {
+		19708 10
+		}
+		victory_points = {
+		19707 5
+		}
+		victory_points = {
+		15819 3
+		}
+		victory_points = {
+		3195 30
+		}
+		victory_points = {
+		4290 5
+		}
+		victory_points = {
+		19710 10 
+		}
+		victory_points = {
+		19711 3
+		}
+		victory_points = {
+		19712 3
+		}
+		victory_points = {
+		15865 1
+		}
+		victory_points = {
+		6730 1
+		}
+		victory_points = {
+		15793 1 #Çatalca
+		}
+	}
 }

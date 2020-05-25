@@ -16,7 +16,39 @@ state={
 			air_base = 4
 
 		}
-
+		victory_points = {
+			9114 3 
+		}
+		victory_points = {
+			15139 10 
+		}
+		victory_points = {
+			1453 2 
+		}
+		victory_points = {
+			15192 1 
+		}
+		victory_points = {
+			7758 25 
+		}
+		victory_points = {
+			9103 5 
+		}
+		victory_points = {
+			8417 2 
+		}
+		victory_points = {
+			11158 1 
+		}
+		victory_points = {
+			15154 1 
+		}
+		victory_points = {
+			14986 5 
+		}
+		victory_points = {
+			7022 1 
+		}
 	}
 
 	provinces={

@@ -21,5 +21,47 @@ state={
 			air_base = 3
 
 		}
+		victory_points = {
+		3639 3
+		}
+		victory_points = {
+		14617 5
+		}
+		victory_points = {
+		14659 3
+		}
+		victory_points = {
+		10712 3
+		}
+		victory_points = {		
+		11304 20
+		}
+		victory_points = {		
+		8704 5
+		}
+		victory_points = {
+		6314 1
+		}
+		victory_points = {
+		14671 3
+		}
+		victory_points = {	
+		7925 10
+		}
+		victory_points = {	
+		4117 5
+		}
+		victory_points = {	
+		8846 3
+		}
+		victory_points = {
+		8082 1
+		}
+		victory_points = {
+		7390 5
+		}
+		victory_points = {
+		7444 1
+		}
         }
 }

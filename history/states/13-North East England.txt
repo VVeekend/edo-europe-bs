@@ -20,5 +20,8 @@ state={
 			dockyard = 4
 			air_base = 6
 		}
+		victory_points = {
+			13245 5 
+		}
         }
 }

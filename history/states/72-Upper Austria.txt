@@ -18,5 +18,53 @@ state={
 			infrastructure = 6
 			industrial_complex = 3
 		}
+		victory_points = {
+		11586 5 
+		}
+		victory_points = {
+		15119 3 
+		}
+		victory_points = {
+		15082 3 
+		}
+		victory_points = {
+		15091 1 
+		}
+		victory_points = {
+		9265 20
+		}
+		victory_points = {
+		2881 3 #Leoben
+		}
+		victory_points = {
+		15083 1 #Leibnitz
+		}
+		victory_points = {
+		7648 1 #Hartberg
+		}
+		victory_points = {
+		5451 1 #Spielberg
+		}
+		victory_points = {
+		14920 1 #Liezen
+		}
+		victory_points = {
+		9751 1 #Kammersberg
+		}
+		victory_points = {
+		14756 10
+		}
+		victory_points = {
+		6472 3
+		}
+		victory_points = {
+		6554 3
+		}
+		victory_points = {
+		5700 1
+		}
+		victory_points = {
+		14942 1
+		}
         }
 }

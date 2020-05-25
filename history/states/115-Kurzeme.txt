@@ -14,5 +14,26 @@ state={
 			infrastructure = 5
 			dockyard = 1
 		}
+		victory_points = {
+		12961 20
+		}
+		victory_points = {
+		2968 1
+		}
+		victory_points = {
+		9198 1
+		}
+		victory_points = {
+		7518 1
+		}
+		victory_points = {
+		11342 10
+		}
+		victory_points = {
+		4977 1
+		}
+		victory_points = {
+		13008 1
+		}
 	}
 }

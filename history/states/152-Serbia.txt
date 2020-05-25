@@ -16,7 +16,24 @@ state={
 				industrial_complex = 4
 				air_base = 5
 				arms_factory = 3
-
 			}
+	victory_points = {
+	19997 50
+	}
+	victory_points = {
+	15385 5
+	}
+	victory_points = {
+	1653 5
+	}
+	victory_points = {
+	15582 5
+	}
+	victory_points = {
+	1725 5
+	}
+	victory_points = {
+	8342 1
+	}
             }
 }

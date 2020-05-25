@@ -18,5 +18,41 @@ state={
 			infrastructure = 7
 			industrial_complex = 3
 		}
+		victory_points = {
+		3363 10 
+		}
+		victory_points = {
+		14475 1 
+		}
+		victory_points = {
+		14503 5
+		}
+		victory_points = {
+		3695 3
+		}
+		victory_points = {
+		3142 3
+		}
+		victory_points = {
+		14525 3
+		}
+		victory_points = {
+		8295 10
+		}
+		victory_points = {
+		14391 1
+		}
+		victory_points = {
+		9653 3 
+		}
+		victory_points = {
+		342 5
+		}
+		victory_points = {
+		6539 5
+		}
+		victory_points = {
+		200 1
+		}
          }
 }

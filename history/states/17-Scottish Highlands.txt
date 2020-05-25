@@ -16,9 +16,25 @@ state={
 			anti_air_building = 2
 			industrial_complex = 1
 			air_base = 1
-
 		}
-
+		victory_points = {
+		13066 10
+		}
+		victory_points = {
+		1016 1 
+		}
+		victory_points = {
+		12864 1
+		}
+		victory_points = {
+		6690 1
+		}
+		victory_points = {
+		12759 1
+		}
+		victory_points = {
+		9777 1
+		}
 	}
 
 	provinces={

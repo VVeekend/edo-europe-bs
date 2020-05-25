@@ -14,9 +14,25 @@ state={
 			infrastructure = 5
 			industrial_complex = 2
 			air_base = 2
-
 		}
-
+		victory_points = {
+			19407 50
+		}
+		victory_points = {
+			19406 1
+		}
+		victory_points = {
+			15665 10
+		}
+		victory_points = {
+			8389 1
+		}
+		victory_points = {
+			19413 10
+		}
+		victory_points = {
+			15400 1
+		}
 	}
 
 	provinces={

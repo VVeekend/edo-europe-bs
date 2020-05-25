@@ -17,5 +17,32 @@ state={
 			arms_factory = 1
 			industrial_complex = 4
 		}
+		victory_points = {
+		8587 50 
+		}
+		victory_points = {
+		19484 1 
+		}
+		victory_points = {
+		9505 1 
+		}
+		victory_points = {
+		6614 1 
+		}
+		victory_points = {
+		16092 1 
+		}
+		victory_points = {
+		16034 1 
+		}
+		victory_points = {
+		1943 1 
+		}
+		victory_points = {
+		15968 1 
+		}
+		victory_points = {
+		11592 1 
+		}
         }
 }

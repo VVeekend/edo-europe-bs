@@ -10,12 +10,29 @@ state={
 	state_category = town
 	resources={
 		oil=8 # was: 10 }
- 
 	history={
 		owner = IRQ
 		add_core_of = IRQ
 		buildings = {
 			infrastructure = 3
+			}
+					victory_points = {
+			15909 1 
+		}
+		victory_points = {
+			1751 10 
+		}
+		victory_points = {
+			2551 1 
+		}
+		victory_points = {
+			16090 1 
+		}
+		victory_points = {
+			16271 1 
+		}
+		victory_points = {
+			16194 1 
 		}
 	}
 }

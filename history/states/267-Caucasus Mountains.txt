@@ -15,7 +15,28 @@ state={
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 3
+		}
 
+		victory_points = {
+			14572 1 
+		}
+		victory_points = {
+			14726 1 
+		}
+		victory_points = {
+			7353 1 
+		}
+		victory_points = {
+			1377 5 
+		}
+		victory_points = {
+			6861 1 
+		}
+		victory_points = {
+			9169 5 
+		}
+		victory_points = {
+			1629 1 
 		}
 	}
 }

@@ -17,5 +17,59 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 		}
+	victory_points = {
+	8068 1
 	}
+	victory_points = {
+	1232 1
+	}
+	victory_points = {
+	3816 1
+	}
+	victory_points = {
+	16524 1
+	}
+	victory_points = {
+	4509 1
+	}
+	victory_points = {
+	16527 3
+	}
+	victory_points = {
+	1724 5
+	}
+	victory_points = {
+	9372 2
+        }
+	victory_points = {
+	16382 1
+	}
+	victory_points = {
+	1842 20
+	}
+	victory_points = {
+	3902 1
+	}
+	victory_points = {
+	16553 1
+	}	
+	victory_points = {
+	16489 1
+	}
+	victory_points = {
+	16471 1
+	}
+	victory_points = {
+	2559 1
+	}
+	victory_points = {
+	16370 1
+	}
+	victory_points = {
+	9561 1
+	}
+	victory_points = {
+	16399 1
+	}
+   }
 }

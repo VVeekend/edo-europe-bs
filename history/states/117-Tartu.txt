@@ -8,9 +8,19 @@ state={
 		add_core_of = EST
 		buildings = {
 			infrastructure = 5
-
 		}
-
+		victory_points = {
+			9576 5
+		}
+		victory_points = {
+			12712 1
+		}
+		victory_points = {
+			4670 1
+		}
+		victory_points = {
+			7834 1
+		}
 	}
 
 	provinces={

@@ -14,5 +14,14 @@ state={
 			infrastructure = 6
 			fuel_silo = 1
 		}
+		victory_points = {
+		11502 3
+		}
+		victory_points = {
+		5036 1
+		}
+		victory_points = {
+		47 3
+		}
         }
 }

@@ -13,7 +13,54 @@ state={
 			air_base = 5
 
 		}
-
+		victory_points = {
+		16166 10 
+		}
+		victory_points = {
+		16279 1 
+		}
+		victory_points = {
+		11360 1 
+		}
+		victory_points = {
+		862 1 
+		}
+		victory_points = {
+		16178 1 
+		}
+		victory_points = {
+		9500 1 
+		}
+		victory_points = {
+		253 1 
+		}
+		victory_points = {
+		5706 1 
+		}
+		victory_points = {
+		8355 1 
+		}
+		victory_points = {
+		4997 1 
+		}
+		victory_points = {
+		10724 1 
+		}
+		victory_points = {
+		19478 1 
+		}
+		victory_points = {
+		19479 1 
+		}
+		victory_points = {
+		16438 1 
+		}
+		victory_points = {
+		10834 1 
+		}
+		victory_points = {
+		3731 1 
+		}
 	}
 
 	provinces={

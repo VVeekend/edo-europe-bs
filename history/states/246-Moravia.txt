@@ -21,5 +21,11 @@ state={
 			anti_air_building = 5
 			air_base = 5
 		}
+		victory_points = {
+			6882 15 
+		}
+		victory_points = {
+			14405 5 
+		}
           }
 }

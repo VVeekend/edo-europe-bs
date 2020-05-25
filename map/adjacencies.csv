@@ -141,3 +141,42 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 17322;17321;sea;18369;-1;-1;-1;-1;;Poitou south 2
 17321;19540;sea;18369;-1;-1;-1;-1;;Poitou south 3
 12739;17268;sea;17874;-1;-1;-1;-1;;West Norway to Small island
+13049;17282;sea;18925;-1;-1;-1;-1;;Scottish Islands 1
+7072;17282;sea;18925;-1;-1;-1;-1;;Scottish Islands 2
+7072;6972;sea;18140;-1;-1;-1;-1;;Scottish Islands 3
+17280;6972;sea;17626;-1;-1;-1;-1;;Scottish Islands 4
+7771;12968;sea;19021;-1;-1;-1;-1;;Scottish Islands 5
+17277;12968;sea;19021;-1;-1;-1;-1;;Scottish Islands 6
+17277;17278;sea;19021;-1;-1;-1;-1;;Scottish Islands 7
+3385;17277;sea;19021;-1;-1;-1;-1;;Scottish Islands 8
+612;17276;sea;19021;-1;-1;-1;-1;;Scottish Islands 9
+17272;8044;sea;18576;-1;-1;-1;-1;;Scottish Islands 10
+17274;17272;sea;18143;-1;-1;-1;-1;;Scottish Islands 11
+10371;10517;sea;18576;-1;-1;-1;-1;;Scottish Islands 12
+17270;10517;sea;18576;-1;-1;-1;-1;;Scottish Islands 13
+17272;17270;sea;18576;-1;-1;-1;-1;;Scottish Islands 14
+10371;17273;sea;18576;-1;-1;-1;-1;;Scottish Islands 15
+2140;17258;sea;17954;-1;-1;-1;-1;;North Scottish Islands 1
+2140;17259;sea;17954;-1;-1;-1;-1;;North Scottish Islands 2
+17258;9575;sea;17954;-1;-1;-1;-1;;North Scottish Islands 3
+17259;9575;sea;17954;-1;-1;-1;-1;;North Scottish Islands 4
+9575;17250;sea;19079;-1;-1;-1;-1;;North Scottish Islands 5
+9575;17253;sea;19006;-1;-1;-1;-1;;North Scottish Islands 6
+9575;17256;sea;19006;-1;-1;-1;-1;;North Scottish Islands 7
+17253;17252;sea;19006;-1;-1;-1;-1;;North Scottish Islands 8
+17252;8434;sea;19006;-1;-1;-1;-1;;North Scottish Islands 9
+8434;17226;sea;19068;-1;-1;-1;-1;;North Scottish Islands 10
+17226;17224;sea;19068;-1;-1;-1;-1;;North Scottish Islands 11
+17226;17228;sea;18068;-1;-1;-1;-1;;North Scottish Islands 12
+17224;17228;sea;18068;-1;-1;-1;-1;;North Scottish Islands 13
+17216;17215;sea;18585;-1;-1;-1;-1;;Faroe Islands 1
+17215;9084;sea;18760;-1;-1;-1;-1;;Faroe Islands 2
+9084;17210;sea;17577;-1;-1;-1;-1;;Faroe Islands 3
+9963;5122;sea;18515;-1;-1;-1;-1;;Sweden to south small island
+12736;17265;sea;18724;-1;-1;-1;-1;;Sweden to East small island 1
+17265;17266;sea;18724;-1;-1;-1;-1;;Sweden to East small island 2
+12736;17261;sea;18724;-1;-1;-1;-1;;Sweden to East small island 3
+4192;17275;sea;17795;-1;-1;-1;-1;;Sweden to West Small island 1
+12669;17255;sea;17997;-1;-1;-1;-1;;Sweden to West Small island 2
+1384;17251;sea;17997;-1;-1;-1;-1;;Sweden to West Small island 3
+151;17244;sea;19075;-1;-1;-1;-1;;Sweden to West Small island 4

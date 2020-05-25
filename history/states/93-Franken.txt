@@ -9,9 +9,40 @@ state={
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 2
-
 		}
-
+		victory_points = {
+		14333 5
+		}
+		victory_points = {
+		14305 1
+		}
+		victory_points = {
+		14383 1
+		}
+		victory_points = {
+		14404 1
+		}
+		victory_points = {
+		14396 1
+		}
+		victory_points = {
+		6412 3
+		}
+		victory_points = {
+		14440 1
+		}
+		victory_points = {
+		14394 5
+		}
+		victory_points = {
+		14516 1
+		}
+		victory_points = {
+		14458 1
+		}
+		victory_points = {
+		14535 1
+		}
 	}
 
 	provinces={

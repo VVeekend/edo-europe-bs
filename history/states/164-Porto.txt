@@ -10,9 +10,19 @@ state={
 			infrastructure = 5
 			industrial_complex = 2
 			dockyard = 1
-
 		}
-
+		victory_points = {
+		15795 20
+		}
+		victory_points = {
+		11072 5
+		}	
+		victory_points = {
+		1153 1
+		}
+		victory_points = {
+		15773 5
+		}
 	}
 
 	provinces={

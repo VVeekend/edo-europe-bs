@@ -14,5 +14,29 @@ state={
 		buildings={
 			infrastructure=4
 			}
+        victory_points = {
+		6652 1
 		}
+        victory_points = {
+		9454 1
+		}
+        victory_points = {
+		16160 1
+		}
+        victory_points = {
+		11628 1
+		}
+        victory_points = {
+		3313 5
+		}
+        victory_points = {
+		10528 1
+		}
+        victory_points = {
+		8872 1
+		}
+        victory_points = {
+		16357 1
+		}
+	}
 }

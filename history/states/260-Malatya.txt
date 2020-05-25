@@ -15,5 +15,53 @@ state={
 			infrastructure = 3
 			air_base = 2
 		}
+		victory_points = {
+		11351 5
+		}
+		victory_points = {
+		5211 1
+		}
+		victory_points = {
+		15820 1
+		}
+		victory_points = {
+		1782 1 #Kulp
+		}
+		victory_points = {
+		7417 1
+		}
+		victory_points = {
+		6946 1
+		}
+		victory_points = {
+		459 1
+		}
+		victory_points = {
+		4422 3
+		}
+		victory_points = {
+		9874 1
+		}
+		victory_points = {
+		7019 1
+		}
+		victory_points = {
+		10927 1
+		}
+		victory_points = {
+		10890 1
+		}
+		victory_points = {
+		15879 3
+		}
+		victory_points = {
+		6344 1
+		}
+		victory_points = {
+		5601 1
+		}
+		victory_points = {
+		15861 1
+		}
 	}
 }

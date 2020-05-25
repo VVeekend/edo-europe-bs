@@ -19,5 +19,41 @@ state={
 			industrial_complex = 2
 			air_base = 3
 		}
+		victory_points = {
+		19705 20
+		}
+		victory_points = {
+		7624 3
+		}
+		victory_points = {
+		8151 1
+		}
+		victory_points = {
+		15904 1
+		}
+		victory_points = {
+		8978 1
+		}
+		victory_points = {
+		15764 1
+		}
+		victory_points = {
+		15961 1
+		}
+		victory_points = {
+		16015 1
+		}
+		victory_points = {
+		3611 1
+		}
+		victory_points = {
+		11157 5
+		}	
+		victory_points = {
+		346 1
+		}
+		victory_points = {
+		3126 1
+		}
 	}
 }

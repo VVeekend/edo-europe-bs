@@ -19,5 +19,59 @@ state={
 			industrial_complex = 3
 			air_base = 2
 		}
+	victory_points = {
+	2104 15
 	}
+	victory_points = {
+	10570 5
+	}
+	victory_points = {
+	7959 1
+	}
+	victory_points = {
+	12989 5
+	}
+	victory_points = {
+	3905 2
+	}
+	victory_points = {
+	9140 3
+	}
+	victory_points = {
+	13103 10
+	  }
+	victory_points = {
+	13177 20
+	}
+	victory_points = {
+	11611 5
+	}
+	victory_points = {
+	13132 3
+	}
+	victory_points = {
+	10260 3
+	}
+	victory_points = {
+	10907 2
+	}
+	victory_points = {
+	11481 3
+	}
+	victory_points = {
+	1459 2
+	}
+	victory_points = {
+	6348 3
+	}
+	victory_points = {
+	7633 2
+	}
+	victory_points = {
+	13224 2
+	}
+	victory_points = {
+	13208 2
+	}
+    }
 }

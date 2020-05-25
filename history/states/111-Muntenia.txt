@@ -14,10 +14,37 @@ state={
 			arms_factory = 4
 			industrial_complex = 1
 			air_base = 3
-			dockyard = 1
-
 		}
-
+		victory_points = {
+		7674 5 
+		}
+		victory_points = {
+		11566 40 
+		}
+		victory_points = {
+                15330 1
+		}
+		victory_points = {
+		9942 1 
+		}
+		victory_points = {
+		10630 5 
+		}
+		victory_points = {
+		11469 1 
+		}
+		victory_points = {
+		15413 1 
+		}
+		victory_points = {
+		5733 1 
+		}
+		victory_points = {
+		3856 1 
+		}
+		victory_points = {
+		8517 1 
+		}
 	}
 
 	provinces={

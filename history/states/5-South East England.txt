@@ -20,5 +20,41 @@ state={
 			radar_station = 1
 			air_base = 10
 		}
+		victory_points = {
+		14116 5 
+		}
+		victory_points = {
+		5877 1 
+		}
+		victory_points = {
+		14070 5 
+		}
+		victory_points = {
+		13976 1 
+		}
+		victory_points = {
+		9649 5 
+		}
+		victory_points = {
+		11392 1 
+		}
+		victory_points = {
+		14061 5 
+		}
+		victory_points = {
+		14109 5 
+		}
+		victory_points = {
+		4816 1
+		}
+		victory_points = {
+		14105 1
+		}
+		victory_points = {
+		14023 1
+		}
+		victory_points = {
+		10130 1
+		}
         }
 }
