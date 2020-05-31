@@ -7389,7 +7389,7 @@
 7388;210;164;243;land;true;desert;1
 7389;213;165;163;land;false;mountain;1
 7390;197;179;162;land;false;plains;1
-7391;84;235;233;land;true;plains;1
+7391;84;235;233;land;true;urban;1
 7392;161;187;153;land;false;desert;1
 7393;216;109;228;land;false;mountain;1
 7394;158;210;146;land;true;desert;1
@@ -8297,7 +8297,7 @@
 8296;180;147;224;land;false;plains;1
 8297;197;189;116;land;false;desert;1
 8298;197;213;147;land;false;plains;1
-8299;172;245;131;land;false;forest;1
+8299;172;245;131;land;false;urban;1
 8300;249;232;31;land;true;forest;1
 8301;224;227;251;land;false;forest;1
 8302;235;180;188;land;false;hills;1
@@ -11487,7 +11487,7 @@
 11486;115;253;188;land;false;forest;1
 11487;230;231;254;land;true;hills;1
 11488;171;201;162;land;false;forest;1
-11489;80;249;247;land;false;hills;1
+11489;80;249;247;land;false;urban;1
 11490;219;133;195;land;false;desert;1
 11491;165;189;193;land;false;forest;1
 11492;137;174;196;land;false;plains;1
@@ -14911,7 +14911,7 @@
 14910;220;122;240;land;false;plains;1
 14911;222;167;113;land;false;plains;1
 14912;251;254;95;land;false;hills;1
-14913;230;233;189;land;false;plains;1
+14913;230;233;189;land;false;urban;1
 14914;240;228;85;land;true;forest;1
 14915;111;176;217;land;false;plains;1
 14916;227;225;242;land;false;mountain;1
@@ -15189,7 +15189,7 @@
 15188;85;212;238;land;false;forest;1
 15189;122;164;237;land;false;mountain;1
 15190;178;220;157;land;false;mountain;1
-15191;210;127;187;land;false;mountain;1
+15191;210;127;187;land;false;urban;1
 15192;250;100;235;land;false;mountain;1
 15193;169;182;168;land;false;hills;1
 15194;174;132;253;land;false;plains;1
@@ -20317,3 +20317,15 @@
 20316;214;56;101;land;false;plains;1
 20317;178;235;149;land;false;hills;1
 20318;97;146;85;land;false;hills;1
+20319;111;7;59;land;false;plains;1
+20320;126;201;233;land;false;urban;1
+20321;138;45;121;land;false;urban;1
+20322;198;216;209;land;false;urban;1
+20323;29;101;206;land;false;urban;1
+20324;121;220;135;land;false;urban;1
+20325;254;147;14;land;false;urban;1
+20326;232;184;188;land;false;urban;1
+20327;98;30;19;land;false;urban;1
+20328;182;148;198;land;false;urban;1
+20329;93;23;161;land;false;urban;1
+20330;135;2;86;land;false;urban;1
