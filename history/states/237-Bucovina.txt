@@ -1,22 +1,26 @@
+
 state={
 	id=237
 	name="STATE_237"
-	provinces={
-		4572 4645 6929 8427 14541 14559 
-	}
-	manpower=474600
-	buildings_max_level_factor=1.000
-	state_category = rural
-	history=
-	{
+
+	history={
 		owner = ROM
 		add_core_of = ROM
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
+
 		}
 		victory_points = {
-		8427 5 
+			8427 5 
 		}
+
 	}
+
+	provinces={
+		3712 4572 4645 6929 7528 8427 10373 10913 11135 11569 14418 14541 14559 
+	}
+	manpower=474600
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

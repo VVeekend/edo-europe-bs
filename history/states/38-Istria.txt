@@ -2,12 +2,7 @@
 state={
 	id=38
 	name="STATE_38"
-	provinces={
-		3579 6770 8094 10242 10894 11212 11453 15260 15287 15348 15352 15384 17323 20123 20124 20263 20265 
-	}
-	manpower=1063159
-	buildings_max_level_factor=1.000
-        state_category = city
+
 	history={
 		owner = ITA
 		add_core_of = ITA
@@ -15,12 +10,21 @@ state={
 		add_core_of = SLV
 		buildings = {
 			infrastructure = 2
+
 		}
 		victory_points = {
-		11212 5
+			11212 5 
 		}
 		victory_points = {
-		3579 15
+			3579 15 
 		}
+
 	}
+
+	provinces={
+		6770 8094 10242 10894 11212 15260 15287 15348 15352 15384 17323 20263 20265 
+	}
+	manpower=1063159
+	buildings_max_level_factor=1.000
+	state_category=city
 }
